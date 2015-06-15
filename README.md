@@ -1,10 +1,7 @@
 Bootstrap Collapse Sidebar
 ===================
-
-
 100% CSS plugin that turns the navbar collapse dropdown into a sidebar. 
 
-----------
 
 
 Installation
@@ -22,7 +19,7 @@ Only if you wish to place the sidebar on the right,  add the class ```collapse-r
 ```html
 <nav class="navbar navbar-inverse navbar-fixed-top">
   ...
-  <div id="navbar" class="collapse navbar-collapse">
+  <div id="navbar" class="collapse navbar-collapse collapse-right">
       <ul class="nav navbar-nav">...</ul>
   </div>
       
