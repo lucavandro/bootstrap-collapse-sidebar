@@ -1,0 +1,24 @@
+{
+  "name": "Bootstrap Collapse Sidebar",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lucavandro/bootstrap-collapse-sidebar",
+  "description": "100% CSS plugin that turns the navbar collapse dropdown into a sidebar.",
+  "main": "bootstrap-collapse-sidebar.css",
+  "keywords": [
+    "bootstrap",
+    "collapse",
+    "sidebar",
+    "plugin"
+  ],
+  "authors": [
+    "Luca Adalberto Vandro"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
