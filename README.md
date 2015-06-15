@@ -29,3 +29,5 @@ Only if you wish to place the sidebar on the right,  add the class ```collapse-r
 Note
 -------------
 Only usage with ```navbar-fixed-top``` is supported.
+
+
