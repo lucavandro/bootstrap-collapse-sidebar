@@ -1,11 +1,15 @@
+// Start commenting here to use your own vars
 @navbar-default-bg:                #f8f8f8;
 @navbar-default-border:            darken(@navbar-default-bg, 6.5%);
 @navbar-inverse-bg:                #222;
 @navbar-inverse-border:            darken(@navbar-inverse-bg, 10%);
 
+@grid-float-breakpoint-max: 	   767px;
+// Stop commenting here to use your own vars
+
 @sidebar-width: 250px;
 @sidebar-transition-duration : 500ms;
-@sidebar-transition-easing : cubic-bezier(0.4, 0, 0.2, 1);
+@sidebar-transition-easing : ease;
 @sidebar-transition: $sidebar-transition-duration $sidebar-transition-easing;
 
 @media screen and (max-width: @grid-float-breakpoint-max) {

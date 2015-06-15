@@ -2,6 +2,8 @@ Bootstrap Collapse Sidebar
 ===================
 100% CSS plugin that turns the navbar collapse dropdown into a sidebar. 
 
+:+1: Sass/Scss support
+:+1: Less support
 
 Demo
 -------------
