@@ -6,7 +6,15 @@ Bootstrap Collapse Sidebar
 
 Installation
 -------------
-Simply import bootstrap-collapse-sidebar.css in your html
+Bower
+```sh
+bower install bootstrap-collapse-sidebar
+```
+
+or click [here](https://github.com/lucavandro/bootstrap-collapse-sidebar/archive/master.zip)
+
+
+Then simply import bootstrap-collapse-sidebar.css in your html
 
 ```html
  <link href="css/bootstrap-collapse-sidebar.min.css" rel="stylesheet">
